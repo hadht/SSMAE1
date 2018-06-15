@@ -1,0 +1,880 @@
+n=51
+iseed=65
+************************Prediction-t=1**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72160      0.91004
+      0.63903     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=2**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73826      0.10001
+      0.31220     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=3**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.70642      0.19621
+      0.34699     0.080000
+     0.010000      0.50000
+     0.086257      0.00000
+************************Prediction-t=4**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.82349      0.81312
+      0.54965     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=5**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74524      0.30276
+      0.37327     0.080000
+      0.12259      0.50000
+     0.010000      0.00000
+************************Prediction-t=6**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.77202      0.18176
+      0.32213     0.080000
+      0.11961      0.50000
+     0.010000      0.00000
+************************Prediction-t=7**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72410     0.016350
+      0.50970     0.080000
+      0.28536      0.50000
+     0.010000      0.00000
+************************Prediction-t=8**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73857     0.017176
+      0.49046     0.080000
+      0.24141      0.50000
+     0.010000      0.00000
+************************Prediction-t=9**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73427     0.020688
+      0.45089     0.080000
+      0.21663      0.50000
+     0.010000      0.00000
+************************Prediction-t=10**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72055     0.061627
+      0.33342     0.080000
+      0.22153      0.50000
+     0.010000      0.00000
+************************Prediction-t=11**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72785     0.033082
+      0.37992     0.080000
+      0.19744      0.50000
+     0.010000      0.00000
+************************Prediction-t=12**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72812     0.027029
+      0.40663     0.080000
+      0.17755      0.50000
+     0.010000      0.00000
+************************Prediction-t=13**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73609     0.090295
+      0.31899     0.080000
+      0.19824      0.50000
+     0.010000      0.00000
+************************Prediction-t=14**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72218      0.15277
+      0.32986     0.080000
+      0.19366      0.50000
+     0.010000      0.00000
+************************Prediction-t=15**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73091      0.10522
+      0.32027     0.080000
+      0.18716      0.50000
+     0.010000      0.00000
+************************Prediction-t=16**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74695      0.17111
+      0.32725     0.080000
+      0.18985      0.50000
+     0.010000      0.00000
+************************Prediction-t=17**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74748      0.17381
+      0.32760     0.080000
+      0.17648      0.50000
+     0.010000      0.00000
+************************Prediction-t=18**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74440      0.10201
+      0.31660     0.080000
+      0.20513      0.50000
+     0.010000      0.00000
+************************Prediction-t=19**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74872      0.10548
+      0.31553     0.080000
+     0.087408      0.50000
+      0.11512      0.00000
+************************Prediction-t=20**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.75165      0.12952
+      0.31729     0.080000
+      0.18817      0.50000
+     0.010000      0.00000
+************************Prediction-t=21**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74877      0.13870
+      0.31955     0.080000
+      0.17925      0.50000
+     0.010000      0.00000
+************************Prediction-t=22**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73617      0.18564
+      0.33378     0.080000
+      0.20414      0.50000
+     0.010000      0.00000
+************************Prediction-t=23**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.68707      0.23315
+      0.36256     0.080000
+      0.22768      0.50000
+     0.010000      0.00000
+************************Prediction-t=24**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.68242      0.23745
+      0.36536     0.080000
+      0.21681      0.50000
+     0.010000      0.00000
+************************Prediction-t=25**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.67160      0.29004
+      0.38701     0.080000
+      0.25011      0.50000
+     0.010000      0.00000
+************************Prediction-t=26**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.61937      0.33002
+      0.42079     0.080000
+      0.26121      0.50000
+     0.010000      0.00000
+************************Prediction-t=27**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.59219      0.35207
+      0.43982     0.080000
+      0.25457      0.50000
+     0.010000      0.00000
+************************Prediction-t=28**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.57564      0.37217
+      0.45465     0.080000
+      0.24770      0.50000
+     0.010000      0.00000
+************************Prediction-t=29**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.56035      0.39459
+      0.47039     0.080000
+      0.24238      0.50000
+     0.010000      0.00000
+************************Prediction-t=30**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.53465      0.43345
+      0.49769     0.080000
+      0.24649      0.50000
+     0.010000      0.00000
+************************Prediction-t=31**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.43382      0.29185
+     0.059311     0.080000
+     0.066154       1.7412
+      0.14557      0.00000
+************************Prediction-t=32**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.40630      0.32165
+     0.054678     0.080000
+     0.085179       1.8490
+      0.12111      0.00000
+************************Prediction-t=33**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.34770      0.36586
+     0.051865     0.080000
+     0.068527       1.9440
+      0.12844      0.00000
+************************Prediction-t=34**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32377      0.38079
+     0.050238     0.080000
+     0.059196       2.0160
+      0.12876      0.00000
+************************Prediction-t=35**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.33772      0.36975
+     0.051292     0.080000
+     0.061448       1.9631
+      0.12362      0.00000
+************************Prediction-t=36**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32176      0.37827
+     0.048054     0.080000
+     0.048963       2.0821
+      0.12842      0.00000
+************************Prediction-t=37**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32623      0.37238
+     0.051755     0.080000
+     0.051438       1.9511
+      0.12371      0.00000
+************************Prediction-t=38**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.30826      0.38486
+     0.041165     0.080000
+     0.032615       2.3885
+      0.14371      0.00000
+************************Prediction-t=39**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.29809      0.39170
+     0.037986     0.080000
+     0.033466       2.5877
+      0.13863      0.00000
+************************Prediction-t=40**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.30635      0.38604
+     0.039251     0.080000
+     0.031785       2.4914
+      0.13836      0.00000
+************************Prediction-t=41**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35190      0.37033
+     0.046014     0.080000
+     0.059314       2.1372
+      0.12170      0.00000
+************************Prediction-t=42**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.34840      0.37037
+     0.052866     0.080000
+     0.073501       1.9184
+      0.10692      0.00000
+************************Prediction-t=43**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35165      0.36897
+     0.049300     0.080000
+     0.067190       2.0212
+      0.10846      0.00000
+************************Prediction-t=44**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35805      0.36729
+     0.044502     0.080000
+     0.066153       2.1896
+      0.10641      0.00000
+************************Prediction-t=45**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35503      0.36749
+     0.044829     0.080000
+     0.062302       2.1752
+      0.10598      0.00000
+************************Prediction-t=46**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.40643      0.34259
+     0.060842     0.080000
+      0.13099       1.7423
+     0.079899      0.00000
+************************Prediction-t=47**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.37145      0.35780
+     0.072751     0.080000
+      0.13912       1.5353
+     0.069578      0.00000
+************************Prediction-t=48**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.29441      0.40330
+      0.10705     0.080000
+      0.12341       1.2027
+     0.086037      0.00000
+************************Prediction-t=49**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.31631      0.38768
+     0.094645     0.080000
+      0.12206       1.2932
+     0.084466      0.00000
+************************Prediction-t=50**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.14096      0.66438
+      0.28107     0.080000
+     0.064335      0.77915
+      0.14303      0.00000
+************************Prediction-t=51**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.12834      0.70055
+      0.36049     0.080000
+     0.078743      0.71202
+      0.13089      0.00000
+**************************Forecast**************************************************
+meanprevass=
+      0.00000
+Meanlinfass=
+      0.00000
+Meansupass=
+      0.00000
+liminfass=
+      0.00000
+limsupass=
+      0.00000
+Coverage=0
+*****************Results MC****************************************
+Oviposicao:0.712019
+sig1:(modelo csi)0.128338
+sig2:(modelo csi)0.700546
+sig3:(modelo csi)0.360489
+mt_4:(modelo csi)0.08
+sigma2eta:0.0787427
+sigma2eps:0.130885
+Razao-Sinal-Ruido:0.601617
+-----------------------------------------------------
+Adjust Statistics:
+size=50
+vFunc=
+      -42.432
+-2*logvero=84.864
+STSAdjust:AIC=1.93728
+Tempo Computacional Geral:
+31.37
+n=51
+iseed=65
+************************Prediction-t=1**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72160      0.91004
+      0.63903     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=2**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73826      0.10001
+      0.31220     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=3**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.70642      0.19621
+      0.34699     0.080000
+     0.010000      0.50000
+     0.086257      0.00000
+************************Prediction-t=4**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.82349      0.81312
+      0.54965     0.080000
+     0.010000      0.50000
+     0.010000      0.00000
+************************Prediction-t=5**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74524      0.30276
+      0.37327     0.080000
+      0.12259      0.50000
+     0.010000      0.00000
+************************Prediction-t=6**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.77202      0.18176
+      0.32213     0.080000
+      0.11961      0.50000
+     0.010000      0.00000
+************************Prediction-t=7**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72410     0.016350
+      0.50970     0.080000
+      0.28536      0.50000
+     0.010000      0.00000
+************************Prediction-t=8**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73857     0.017176
+      0.49046     0.080000
+      0.24141      0.50000
+     0.010000      0.00000
+************************Prediction-t=9**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73427     0.020688
+      0.45089     0.080000
+      0.21663      0.50000
+     0.010000      0.00000
+************************Prediction-t=10**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72055     0.061627
+      0.33342     0.080000
+      0.22153      0.50000
+     0.010000      0.00000
+************************Prediction-t=11**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72785     0.033082
+      0.37992     0.080000
+      0.19744      0.50000
+     0.010000      0.00000
+************************Prediction-t=12**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72812     0.027029
+      0.40663     0.080000
+      0.17755      0.50000
+     0.010000      0.00000
+************************Prediction-t=13**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73609     0.090295
+      0.31899     0.080000
+      0.19824      0.50000
+     0.010000      0.00000
+************************Prediction-t=14**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.72218      0.15277
+      0.32986     0.080000
+      0.19366      0.50000
+     0.010000      0.00000
+************************Prediction-t=15**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73091      0.10522
+      0.32027     0.080000
+      0.18716      0.50000
+     0.010000      0.00000
+************************Prediction-t=16**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74695      0.17111
+      0.32725     0.080000
+      0.18985      0.50000
+     0.010000      0.00000
+************************Prediction-t=17**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74748      0.17381
+      0.32760     0.080000
+      0.17648      0.50000
+     0.010000      0.00000
+************************Prediction-t=18**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74440      0.10201
+      0.31660     0.080000
+      0.20513      0.50000
+     0.010000      0.00000
+************************Prediction-t=19**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74872      0.10548
+      0.31553     0.080000
+     0.087408      0.50000
+      0.11512      0.00000
+************************Prediction-t=20**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.75165      0.12952
+      0.31729     0.080000
+      0.18817      0.50000
+     0.010000      0.00000
+************************Prediction-t=21**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.74877      0.13870
+      0.31955     0.080000
+      0.17925      0.50000
+     0.010000      0.00000
+************************Prediction-t=22**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.73617      0.18564
+      0.33378     0.080000
+      0.20414      0.50000
+     0.010000      0.00000
+************************Prediction-t=23**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.68707      0.23315
+      0.36256     0.080000
+      0.22768      0.50000
+     0.010000      0.00000
+************************Prediction-t=24**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.68242      0.23745
+      0.36536     0.080000
+      0.21681      0.50000
+     0.010000      0.00000
+************************Prediction-t=25**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.67160      0.29004
+      0.38701     0.080000
+      0.25011      0.50000
+     0.010000      0.00000
+************************Prediction-t=26**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.61937      0.33002
+      0.42079     0.080000
+      0.26121      0.50000
+     0.010000      0.00000
+************************Prediction-t=27**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.59219      0.35207
+      0.43982     0.080000
+      0.25457      0.50000
+     0.010000      0.00000
+************************Prediction-t=28**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.57564      0.37217
+      0.45465     0.080000
+      0.24770      0.50000
+     0.010000      0.00000
+************************Prediction-t=29**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.56035      0.39459
+      0.47039     0.080000
+      0.24238      0.50000
+     0.010000      0.00000
+************************Prediction-t=30**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.53465      0.43345
+      0.49769     0.080000
+      0.24649      0.50000
+     0.010000      0.00000
+************************Prediction-t=31**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.43382      0.29185
+     0.059311     0.080000
+     0.066154       1.7412
+      0.14557      0.00000
+************************Prediction-t=32**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.40630      0.32165
+     0.054678     0.080000
+     0.085179       1.8490
+      0.12111      0.00000
+************************Prediction-t=33**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.34770      0.36586
+     0.051865     0.080000
+     0.068527       1.9440
+      0.12844      0.00000
+************************Prediction-t=34**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32377      0.38079
+     0.050238     0.080000
+     0.059196       2.0160
+      0.12876      0.00000
+************************Prediction-t=35**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.33772      0.36975
+     0.051292     0.080000
+     0.061448       1.9631
+      0.12362      0.00000
+************************Prediction-t=36**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32176      0.37827
+     0.048054     0.080000
+     0.048963       2.0821
+      0.12842      0.00000
+************************Prediction-t=37**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.32623      0.37238
+     0.051755     0.080000
+     0.051438       1.9511
+      0.12371      0.00000
+************************Prediction-t=38**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.30826      0.38486
+     0.041165     0.080000
+     0.032615       2.3885
+      0.14371      0.00000
+************************Prediction-t=39**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.29809      0.39170
+     0.037986     0.080000
+     0.033466       2.5877
+      0.13863      0.00000
+************************Prediction-t=40**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.30635      0.38604
+     0.039251     0.080000
+     0.031785       2.4914
+      0.13836      0.00000
+************************Prediction-t=41**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35190      0.37033
+     0.046014     0.080000
+     0.059314       2.1372
+      0.12170      0.00000
+************************Prediction-t=42**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.34840      0.37037
+     0.052866     0.080000
+     0.073501       1.9184
+      0.10692      0.00000
+************************Prediction-t=43**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35165      0.36897
+     0.049300     0.080000
+     0.067190       2.0212
+      0.10846      0.00000
+************************Prediction-t=44**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35805      0.36729
+     0.044502     0.080000
+     0.066153       2.1896
+      0.10641      0.00000
+************************Prediction-t=45**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.35503      0.36749
+     0.044829     0.080000
+     0.062302       2.1752
+      0.10598      0.00000
+************************Prediction-t=46**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.40643      0.34259
+     0.060842     0.080000
+      0.13099       1.7423
+     0.079899      0.00000
+************************Prediction-t=47**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.37145      0.35780
+     0.072751     0.080000
+      0.13912       1.5353
+     0.069578      0.00000
+************************Prediction-t=48**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.29441      0.40330
+      0.10705     0.080000
+      0.12341       1.2027
+     0.086037      0.00000
+************************Prediction-t=49**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.31631      0.38768
+     0.094645     0.080000
+      0.12206       1.2932
+     0.084466      0.00000
+************************Prediction-t=50**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.14096      0.66438
+      0.28107     0.080000
+     0.064335      0.77915
+      0.14303      0.00000
+************************Prediction-t=51**********************************************
+STSAdjust:Strong convergence using numerical derivatives
+
+MLE of Static Parameters:
+      0.12834      0.70055
+      0.36049     0.080000
+     0.078743      0.71202
+      0.13089      0.00000
+**************************Forecast**************************************************
+meanprevass=
+      0.00000
+Meanlinfass=
+      0.00000
+Meansupass=
+      0.00000
+liminfass=
+      0.00000
+limsupass=
+      0.00000
+Coverage=0
+*****************Results MC****************************************
+Oviposicao:0.712019
+sig1:(modelo csi)0.128338
+sig2:(modelo csi)0.700546
+sig3:(modelo csi)0.360489
+mt_4:(modelo csi)0.08
+sigma2eta:0.0787427
+sigma2eps:0.130885
+Razao-Sinal-Ruido:0.601617
+-----------------------------------------------------
+Adjust Statistics:
+size=50
+vFunc=
+      -42.432
+-2*logvero=84.864
+STSAdjust:AIC=1.93728
+Tempo Computacional Geral:
+18.67
