@@ -12,9 +12,11 @@ INSTRUCTIONS:
 2) The Ox Code "Adjusting-SSM-AE-TrapData.ox" is for adjusting the SSM model 
 to the series.
 
-3) The R Code "GraphsinR-Adjusting-SSM-AE-TrapData.r" is to build graphs and summaries.
+3) The R Code "GraphsinR-Adjusting-SSM-AE-TrapData.r" is for building graphs and summaries.
 
 4) The remaining files are outputs of Ox or R.
+
+######################################################################################
 
 
 
