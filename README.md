@@ -7,14 +7,11 @@
 
 INSTRUCTIONS:
 
-1) The egg time series (Yt) is "ytovos-costarica.xls".
+1) The Ox Code is for adjusting the SSM model to the series.
 
-2) The Ox Code "Adjusting-SSM-AE-TrapData.ox" is for adjusting the SSM model 
-to the series.
+2) The R Code "GraphsinR-Adjusting-SSM-AE-TrapData.r" is for building graphs and summaries.
 
-3) The R Code "GraphsinR-Adjusting-SSM-AE-TrapData.r" is for building graphs and summaries.
-
-4) The remaining files are outputs of Ox or R.
+3) The remaining files are outputs of Ox or R.
 
 ######################################################################################
 
